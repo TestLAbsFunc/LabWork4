@@ -13,4 +13,5 @@ public abstract class Figure{
     public abstract float getPerimeter();
     // абстрактный метод для получения площади
     public abstract float getArea();
+    
 }
